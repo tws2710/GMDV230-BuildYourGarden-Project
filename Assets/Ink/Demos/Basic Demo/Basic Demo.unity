@@ -329,6 +329,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   storyImage: {fileID: 247548155}
+  backgroundImage: {fileID: 1898288319}
+  defaultBackgroundSprite: {fileID: 21300000, guid: 845969e4e7f4ba14f922fb0c94f64c4f, type: 3}
   cautiousSprite: {fileID: 21300000, guid: 154d519d6dccd3c42ae9e6cfc31b9037, type: 3}
   practicalSprite: {fileID: 21300000, guid: 8ee45971c593c3347aa300a7a81eab26, type: 3}
   playfulSprite: {fileID: 21300000, guid: 9739bc6e27b6149468138f65311ed57f, type: 3}
@@ -337,7 +339,7 @@ MonoBehaviour:
   succulentSprite: {fileID: 0}
   tomatoSprite: {fileID: 21300000, guid: 9739bc6e27b6149468138f65311ed57f, type: 3}
   lettuceSprite: {fileID: 21300000, guid: 29f32a4325398fd49bf623754d46fdfc, type: 3}
-  fenceFlowerSprite: {fileID: 21300000, guid: 6fad61aa184a8b247ac69e6410297cda, type: 3}
+  fenceFlowerSprite: {fileID: 21300000, guid: 2702929cebe9b27448e139c58eeb337c, type: 3}
   wildFlowerSprite: {fileID: 21300000, guid: 107f1c8cfe6629748864c2e244144904, type: 3}
   aloeSprite: {fileID: 21300000, guid: 52878c44671ef4d4780a108953f61d87, type: 3}
   echeveriaSprite: {fileID: 21300000, guid: db77acd33459d20408d9bdb8ddba7e94, type: 3}
